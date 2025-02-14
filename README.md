@@ -8,13 +8,17 @@ Since I recently started blogging, there aren’t many posts yet, but I pour my 
 
 ## 📝 Current Blogs:  
 
-1. **Linear Algebra for Machine Learning**  
+1. **Linear Algebra for Machine Learning**
    [Read here!](https://blog.arun.space/posts/linear-algebra-for-ml)  
 - A beginner-friendly discussion on the basics of linear algebra and its importance in machine learning.  
 
-2. **Semantic Search using Transformers and FAISS**  
+2. **Semantic Search using Transformers and FAISS**
    [Read here!](https://blog.arun.space/posts/semantic-search-using-transformer-FAISS)  
-- A step-by-step guide on building a semantic search system using transformers and FAISS.  
+- A step-by-step guide on building a semantic search system using transformers and FAISS.
+
+3. **Implementation of Perceptron using Numpy**
+   [Read here!](https://blog.arun.space/posts/implementation-perceptron-using-numpy)
+- A detailed guide on implementing a perceptron with NumPy, including initialization, training, and prediction.
 
 
 
