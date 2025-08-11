@@ -20,9 +20,9 @@ Since I recently started blogging, there aren’t many posts yet, but I pour my 
    [Read here!](https://blog.arun.space/posts/implementation-perceptron-using-numpy)
 - A detailed guide on implementing a perceptron with NumPy, including initialization, training, and prediction.
 
-4. **Attention is All You Need - Part 1**
-   [Read here!](https://blog.arun.space/posts/attention-all-you-need-part-1)
-- An easy-to-follow introduction to the Transformer architecture. This post covers why RNNs fall short for sequence tasks and gives a clear, high-level overview of how the Transformer works. 
+4. **Chess Engine Dev Log #1 - Setting Up the Board and Pieces**
+   [Read here!](https://blog.arun.space/posts/setting-up-board-and-piece)
+- Dev Log #1 for the project[@Arun-Kumar21/nn-chess-engine](https://github.com/Arun-Kumar21/nn-chess-engine). Implemented a chessboard, added piece placement, and enabled drag-and-drop functionality for pieces.
 
 🔧 **Upcoming Improvements:**  
 My website is still a work in progress! 🚀 I’m planning to add more features to enhance your experience. Stay tuned!  
